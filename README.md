@@ -1,4 +1,4 @@
-<img src="hi.png" alt="Welcome Banner" width="100%" height="100px" />
+<img src="hi.png" alt="Welcome Banner" width="70%" height="100px" />
 
 
 
@@ -26,7 +26,7 @@ I enjoy turning ideas into real, working solutions — whether it's through code
 ---
 
 ## 📫 Get in Touch
-- 📧 Email: [your.email@example.com](abdalazizeman9224@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/your-profile](www.linkedin.com/in/eman-abd-alaziz-1b6437373)  
+- 📧 Email: [abdalazizeman9224@gmail.com](abdalazizeman9224@gmail.com)  
+- 💼 LinkedIn: [www.linkedin.com/in/eman-abd-alaziz-1b6437373](www.linkedin.com/in/eman-abd-alaziz-1b6437373)  
 
 Thanks for visiting!
