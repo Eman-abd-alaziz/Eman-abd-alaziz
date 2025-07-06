@@ -1,4 +1,4 @@
-<img src="[https://i.imgur.com/oqvD8Km.png]" width="100%" alt="Abd Alaziz GitHub Banner"/>
+<img src="hi.png" width="100%" alt="Abd Alaziz GitHub Banner"/>
 
 # Hi, I'm Eman Abd Alaziz
 
