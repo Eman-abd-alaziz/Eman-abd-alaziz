@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="hi.png" alt="Welcome Banner" width="100%" style="max-height: 100px;" />
-</p>
+<img src="hi.png" alt="Welcome Banner" width="100%" height="200px" />
+
 
 
 # Hi, I'm Eman Abd Alaziz
