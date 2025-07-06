@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="hi.png" alt="Welcome Banner" width="100%" style="max-height: 200px;" />
+  <img src="hi.png" alt="Welcome Banner" width="100%" style="max-height: 100px;" />
 </p>
 
 
