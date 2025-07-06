@@ -1,4 +1,4 @@
-<img src="hi.png" alt="Welcome Banner" width="100%" height="200px" />
+<img src="hi.png" alt="Welcome Banner" width="100%" height="100px" />
 
 
 
