@@ -1,4 +1,7 @@
-<img src="hi.png" width="100%" alt="Abd Alaziz GitHub Banner"/>
+<p align="center">
+  <img src="hi.png" alt="Welcome Banner" width="100%" style="max-height: 200px;" />
+</p>
+
 
 # Hi, I'm Eman Abd Alaziz
 
