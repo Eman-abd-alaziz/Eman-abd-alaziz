@@ -3,26 +3,28 @@
 </p>
 
 
-# Hi, I'm Eman Abd Alaziz
+# Hi, I'm Eman Abd Alaziz 👋
 
-I'm a Computer Engineering student in my final year at An-Najah National University.  
-I’m passionate about building meaningful digital experiences through full-stack development and modern web technologies.
+Computer Engineering student at **An-Najah National University**, graduating in 2026.
 
-I love creating clean, responsive, and user-focused applications — and I'm especially interested in how artificial intelligence can enhance the way we interact with technology.
+I'm interested in **web development, frontend development, and artificial intelligence**, with experience working on academic projects using Java, JavaScript, React, Spring Boot, APEX, and MySQL.
 
 ---
 
 ## 💡 Interests
-- Full-Stack Web Development  
-- Frontend Engineering & UI/UX  
-- Artificial Intelligence & Smart Applications  
-- Web and Mobile App Development
+
+* Web Development
+* Frontend Development & UI/UX
+* Artificial Intelligence
+* Web & Mobile Applications
 
 ---
 
 ## 🧕 About Me
-Curious, creative, and always learning.  
-I enjoy turning ideas into real, working solutions — whether it's through code, design, or smart system integration.
+
+Curious, creative, and always learning.
+I enjoy turning ideas into practical solutions and exploring new technologies through projects and collaboration.
+
 
 ---
 
